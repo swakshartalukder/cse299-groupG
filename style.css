@@ -1,0 +1,136 @@
+#MainTitle01
+{
+	margin: 10px;
+	color: red;
+	font-style: bold;
+	text-align: center;
+	font-size: 50px;
+}
+#hr01{
+  border-radius: 2px;
+  border-style: dashed;
+  border-color: green;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#btn
+{
+	background-color: green;
+	color: white;
+	height: 25px;
+	width: 70px;
+	border-radius: 25px;
+}
+#btn2
+{
+  background-color: green;
+  color: white;
+  height: 30px;
+  width: 150px;
+  display: inline-block;
+  border-radius: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-left: 700px;
+}
+
+ul{
+  float: center;
+  list-style-type: none;
+  margin-top: -50px;
+}
+
+li{
+  display: inline-block;
+}
+
+li a{
+  text-decoration: none;
+  padding: 5px 20px;
+  color: white;
+  background-color: blue;
+  border: 1px solid blue;
+}
+
+li a:hover{
+  background-color: #fff;
+  color: #000;
+}
+
+
+
+body{
+  margin-left: 10px;
+}
+
+input{
+  margin-left: 20px;
+  margin-bottom: 20px;
+
+}
+select{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+form{
+  padding: 10px 10px 10px 10px;
+  width: 400px;
+  margin-left: 30%;
+  margin-right: 0%;
+  display: dashed;
+  text-align: center;
+}
+
+div.form{
+  display: dashed;
+  margin-left: 30%;
+}
+table, th, td {
+  border: 1px solid black;
+}
+
+#form_section{
+  text-align: center;
+  border-style: dashed;
+}
+html{
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+body{
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 25px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+#h1ForUser{
+  text-decoration: underline;
+  color: #eb5234;
+}
+
+#h4ForUser{
+  margin-top: -20px;
+  margin-left: 250px;
+}
+
+div.login_form{
+  margin-top: 15%;
+  text-align: center;
+  margin-left: 35%;
+  border: 1px solid blue;
+  border-width: thin;
+  height: 150px;
+  width: 450px;
+}
+
+table{
+  margin: 20px;
+}
+
+a{
+  text-decoration: underline;
+}
